@@ -1,0 +1,9 @@
+basePath: /
+host: localhost:8080
+info:
+  contact: {}
+  description: A REST API for managing books using Gin, PostgreSQL, Kafka, and Redis.
+  title: Book Management API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
